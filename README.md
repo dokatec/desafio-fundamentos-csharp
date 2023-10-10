@@ -35,6 +35,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O sistema de gerenciamento de estacionamento é um projeto de desafio da DIO.me de fundamento C# a qual o usuario digita os valores, placa do veiculo e realiza um crud via console dos veiculos usando array, List.
 
+## 🛠️ Abrir e rodar o projeto
+
+> <h3 style="color: yellow"> dotnet run </h3>
+
 <!--
 - [Acesse o projeto finalizado, online](https://#)
 
